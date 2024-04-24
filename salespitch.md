@@ -1,4 +1,4 @@
-The fact that major companies like Apple and Facebook, which traditionally compete with Microsoft, still use GitHub for hosting their public repositories is a strong testament to GitHub's effectiveness and the universality of Open Science principles. This aspect can serve as a compelling point in your presentation, emphasizing the widespread adoption and cross-industry standardization that GitHub represents, despite competitive business landscapes.
+The fact that major companies like Apple and Facebook, which traditionally compete with Microsoft, still use GitHub for hosting their public repositories is a strong testament to GitHub's effectiveness and the universality of Open Science principles. This aspect can serve as a compelling point in your presentation, emphasizing the widespread adoption and `cross-industry standardization` that GitHub represents, despite competitive business landscapes.
 
 ### How to Incorporate This into Your Aperitivo
 

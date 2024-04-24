@@ -6,12 +6,12 @@ Our pearl coordinator, Henry Zhao, said you will virtually present a brief resea
 
 I did want to note a few things ahead of next week:
 Zoom information
-Meeting ID: 928 4815 4051
-Passcode: 092395
-Link: https://jhjhm.zoom.us/j/92848154051?pwd=dWdwTDJjMHM4V3BPSjA5L2I2dXJqZz09
-Please join the meeting around 11:45 a.m. to run through audio/video setup.
-Research pearl presentations are 5 minutes long.
-I will be out of the office next week.
+Meeting ID: 928 4815 4051    
+Passcode: 092395     
+Link: https://jhjhm.zoom.us/j/92848154051?pwd=dWdwTDJjMHM4V3BPSjA5L2I2dXJqZz09    
+Please join the meeting around 11:45 a.m. to run through audio/video setup.    
+Research pearl presentations are 5 minutes long.     
+I will be out of the office next week.  
 Patricia "Pat" Bayton (CC'd) is coordinating Grand Rounds for me in my absence. I'm available to answer any questions this week. After that, Pat will be your point of contact. 
 
 Please don't hesitate to reach out; I'm here to help however I can. Thanks!
